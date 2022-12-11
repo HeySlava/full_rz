@@ -7,7 +7,7 @@ services:
     restart: always
 
   front:
-    build: ./front/
+    build: ./slavasql/
     ports:
       - "3000:3000"
     restart: always
