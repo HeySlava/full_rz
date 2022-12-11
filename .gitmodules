@@ -1,3 +1,6 @@
 [submodule "rz_api"]
 	path = rz_api
 	url = git@github.com:HeySlava/rz_api.git
+[submodule "slavasql"]
+	path = slavasql
+	url = git@github.com:HeySlava/slavasql.git
